@@ -4,4 +4,5 @@ project(HackerRank)
 set(CMAKE_CXX_STANDARD 14)
 
 set(SOURCE_FILES TimeConversionAM-PM.cpp)
+#set(SOURCE_FILES TimeConversionAM-PM.cpp)
 add_executable(HackerRank ${SOURCE_FILES})
